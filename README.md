@@ -8,6 +8,11 @@ To decode the paragraph back into the original password, it must be entered into
 
 Further improvements are planned for the future, such as converting the paragraph into different formats or words, etc.
 
+
+## Screenshot
+![Encoder Decoder](https://raw.githubusercontent.com/Khanakay/Encoder-Decoder/main/encoder_decoder_lime_black.jpg)
+
+
 ## Requirements
 
 - Python 3.x
